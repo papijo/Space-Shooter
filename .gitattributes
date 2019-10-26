@@ -1,4 +1,1 @@
-_pycache_/* linguist-vendored
-.idea/* linguist-vendored
-
-Space Shooter.iml/* linguist-vendored
+*.* linguist-language = Python
